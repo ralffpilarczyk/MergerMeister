@@ -68,4 +68,3 @@ Inflation erodes purchasing power
 Companies seek to compete and to make ever increasing amounts of money
 Market uncertainty creates volatility which increases the cost of capital and the cost of investments
 Markets can be fragile and companies have to be able to adapt quickly
-
