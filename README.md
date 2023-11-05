@@ -1,5 +1,7 @@
 # MergerMeister
-MergerMeister is a corporate strategy design tool based on ChatGPT 
+MergerMeister is a corporate strategy design tool based on ChatGPT.
+
+
 Credit to the NASA Petal team. MergerMeister is based on their work on BIDARA.
 
 ---x---
